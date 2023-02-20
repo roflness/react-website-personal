@@ -1,0 +1,24 @@
+hr {
+    border-color: #82C3EC;
+    border-style: none;
+    height: 2px;
+    width: 10%;
+    border-top-style: dotted;
+    border-width: 5px;
+}
+
+body {
+    background-color: #F1F6F5;
+}
+
+img.profile {
+    width: 140px;
+}
+
+h1 {
+    color: #472183
+}
+
+h3 {
+    color: #4B56D2;
+}
